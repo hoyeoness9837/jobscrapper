@@ -16,7 +16,7 @@
 - Search your job by a single keyworld, ex)python
 - Check out the results and export the results in your computer storage by clicking on "Export results as CSV file"
 
-## DEMO
+## DEMO
 -![DEMO](./assets/demo.gif)
 
 ## Github Repo
